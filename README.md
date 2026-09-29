@@ -94,13 +94,11 @@ navigations/
 ### Video Demonstration
 
 <!-- Replace the video link or GIF below with your screen recording -->
-[![Watch the Demo Video](https://img.shields.io/badge/Demo%20Video-Watch%20Recording-blue?style=for-the-badge&logo=youtube)](https://user-images.githubusercontent.com/placeholder-demo.mp4)
 
-> *Tip: You can also embed a GIF recording directly in this section:*
->
-> ```markdown
-> ![Navigations App Walkthrough](assets/demo.gif)
-> ```
+
+https://github.com/user-attachments/assets/6c9b29f2-7144-43f7-8393-ff0d8a530b33
+
+
 
 ### Running the App Locally
 
