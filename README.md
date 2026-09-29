@@ -1,5 +1,5 @@
 # Navigations
-
+Owner: Glenn Mykhel V. Gulfan
 A modern Flutter mobile application demonstrating multi-screen architecture and seamless tab transitions using Flutter's `BottomNavigationBar` and `IndexedStack`. Built with Material 3 styling and clean separation of concerns, the app provides a smooth, state-preserving user experience across authentication, dashboards, profile management, and settings.
 
 ---
